@@ -12,6 +12,8 @@ import android.view.MenuItem;
 
 public class MainActivity extends Activity {
 
+    //  This is a test
+
     SharedPreferences sharedPreferences;
     Intent intent;
 
