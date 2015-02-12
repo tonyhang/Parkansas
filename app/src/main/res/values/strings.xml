@@ -12,5 +12,6 @@
     <string name="help_icon">Help</string>
     <string name="default_name">Guest</string>
     <string name="quit_application">Exit</string>
+    <string name="facebook_app_id">facebook_app_id</string>
 
 </resources>
